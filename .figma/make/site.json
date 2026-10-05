@@ -1,0 +1,12 @@
+{
+  "title": "Asmorius — Commission cho Artists & Writers",
+  "language": "vi",
+  "description": "Asmorius kết nối khách hàng với artists và writers: đặt commission OC, couple, plot với ký quỹ escrow an toàn, chat nội bộ, nghiệm thu có watermark.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
